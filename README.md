@@ -3,6 +3,7 @@ Differential Equation-Based model for studying the seasonal succession of phytop
 
 # Location
 The model is applied in a point location (M2) of the Southeastern Bering Sea, as indicated in the map below.
+
 ![image](map.png)
 
 
