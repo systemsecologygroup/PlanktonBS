@@ -11,15 +11,18 @@ The model has to be compiled with C++ from the [Gnu Compiler Collection](https:/
      g++ succession4new.cc routines.cc nrutil.cc -o a.out -Wno-deprecated
 ```
 
-This creates the executable called `a.out`, which is run by typing `./a.out`.
+This creates the executable called `a.out`, which is run by typing `./a.out`. The option `-Wno-deprecated` avoid getting warnings about the usage of deprecated features.
 
 The model requires input files (forcing environmental functions, including Mixed Layer Depth, Seas Surface Temperature, Wind Speed, and Salinity), which have to be stored in a subdirectory called `./input`.
+
+Header files (`param.h` and `nrutil.h` have to be present in the current directory).
 
 Crucial model parameters are:
 
 ```c++
+     # define NEQ 14         // number of ordinary differential equations
      # define Y 9            // number of years for which run the model (0 is one year cycle)
      # define IGNY 0         // number of years required by the model to reach equilibrium (spin-up)
      # define HOFY 4320      // hour of the year to consider for poincare' sections
-
+```
 
