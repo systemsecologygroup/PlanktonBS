@@ -13,4 +13,13 @@ The model has to be compiled with C++ from the [Gnu Compiler Collection](https:/
 
 This creates the executable called `a.out`, which is run by typing `./a.out`.
 
+The model requires input files (forcing environmental functions, including Mixed Layer Depth, Seas Surface Temperature, Wind Speed, and Salinity), which have to be stored in a subdirectory called `./input`.
+
+Crucial model parameters are:
+
+```c++
+     #define Y 9            // number of years for which run the model (0 is one year cycle)
+     #define IGNY 0         // number of initial years to ignore (for steady-state)
+     #define HOFY 4320      // hour of the year to consider for poincare' sections
+
 
