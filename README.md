@@ -18,8 +18,8 @@ The model requires input files (forcing environmental functions, including Mixed
 Crucial model parameters are:
 
 ```c++
-     #define Y 9            // number of years for which run the model (0 is one year cycle)
-     #define IGNY 0         // number of initial years to ignore (for steady-state)
-     #define HOFY 4320      // hour of the year to consider for poincare' sections
+     # define Y 9            // number of years for which run the model (0 is one year cycle)
+     # define IGNY 0         // number of years required by the model to reach equilibrium (spin-up)
+     # define HOFY 4320      // hour of the year to consider for poincare' sections
 
 
