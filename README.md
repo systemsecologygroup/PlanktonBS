@@ -26,3 +26,4 @@ Crucial model parameters are:
      # define HOFY 4320      // hour of the year to consider for poincare' sections
 ```
 
+Results are saved in a subdirectory called `results`.
