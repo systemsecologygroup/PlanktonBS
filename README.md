@@ -2,7 +2,7 @@
 Differential Equation-Based model for studying the seasonal succession of phytoplankton in the Eastern Bering Sea.
 
 # Location
-[!image](map.png)
+![image](map.png)
 
 
 # Model description
