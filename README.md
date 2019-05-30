@@ -25,7 +25,7 @@ The model requires input files (forcing environmental functions, including Mixed
 
 Header files (`param.h` and `nrutil.h` have to be present in the current directory).
 
-Crucial model parameters are:
+Crucial model parameters are:.
 
 ```c++
      # define NEQ 14         // number of ordinary differential equations
