@@ -7,9 +7,9 @@ The model includes (1) four phytoplankton functional types (diatoms, flagellates
 # How to run
 The model has to be compiled with C++ from the [Gnu Compiler Collection](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) using the command `g++` as follows:
 
-     ```
+```
      g++ succession4new.cc routines.cc nrutil.cc -o a.out -Wno-deprecated
-     ```
+```
 
 This creates the executable called `a.out`, which is run by typing `./a.out`.
 
