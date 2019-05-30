@@ -1,2 +1,2 @@
 # PlanktonBS
-Differential Equation-Based Model for studying the seasonal succession of phytoplankton in the Bering Sea.
+Differential Equation-Based model for studying the seasonal succession of phytoplankton in the Bering Sea.
