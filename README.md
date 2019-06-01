@@ -40,6 +40,6 @@ Results are saved in a subdirectory called `results`.
 # Related publication
 This model was used in the following papers:
 
-- A. Merico, T. Tyrrell, E. J. Lessard, T. Oguz, P. J. Stabeno, S. I. Zeeman, and T. E. Whitledge. [Modelling phytoplankton succession on the Bering Sea shelf: role of climate influences and trophic interactions in generating Emiliania huxleyi blooms 1997-2000](https://www.sciencedirect.com/science/article/pii/S0967063704001475). *Deep-Sea Research I*, **51**:1803–1826, 2004.
+- A. Merico, T. Tyrrell, E. J. Lessard, T. Oguz, P. J. Stabeno, S. I. Zeeman, and T. E. Whitledge. [Modelling phytoplankton succession on the Bering Sea shelf: role of climate influences and trophic interactions in generating *Emiliania huxleyi* blooms 1997-2000](https://www.sciencedirect.com/science/article/pii/S0967063704001475). *Deep-Sea Research I*, **51**:1803–1826, 2004.
 
 - A. Merico, T. Tyrrell, and T. Cokacar. [Is there any relationship between phytoplankton seasonal dynamics and the carbonate system?](https://www.sciencedirect.com/science/article/pii/S0924796305001892) *Journal of Marine Systems*, **59**:120–142, 2006.
