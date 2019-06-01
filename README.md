@@ -4,13 +4,17 @@ Differential Equation-Based model for studying the seasonal succession of phytop
 # Location
 The model is applied in a point location (M2) of the Southeastern Bering Sea, as indicated in the map below.
 
-![image](map.png)
+<p align="center">
+  <img src="map.png" width="500">
+</p>
 
 
 # Model description
 The model includes (1) four phytoplankton functional types (diatoms, flagellates, autotrophic dinoflagellates, and the coccolithoporid *Emiliania huxleyi*), (2) two zooplankton types (micrzooplankton and mesozooplankton), (3) three types of dissolved inorganic nutrients (nitrate, ammonium, and silicate), (4) detritus, (5) attached and free coccoliths, (6) dissolved inorganic carbon (DIC), and (7) total alkalinity, for a total of 14 differential equation. The model resolves the full carbonate system by calculating (based on DIC and alkalinity): bicarbonate ion concentration, carbonate ion concentration, omega calcite, omega aragonite, and pH. A simplified model schematic is shown below.
 
-![image](schematic.png)
+<p align="center">
+  <img src="schematic.png" width="500">
+</p>
 
 
 # How to run the model
